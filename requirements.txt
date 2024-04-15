@@ -1,0 +1,8 @@
+Flask~=3.0.0
+Flask-Caching~=2.1.0
+Requests~=2.31.0
+waitress~=2.1.2
+Pillow~=10.1.0
+pyaes~=1.6.1
+PyMySQL~=1.1.0
+cryptography~=42.0.5
